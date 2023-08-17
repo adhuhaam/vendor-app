@@ -1,6 +1,6 @@
 //Main data
-exports.domain="https://yoursite.com";
-exports.APP_NAME="Appp name";
+exports.domain="https://mithaa.menu";
+exports.APP_NAME="Mithaa Menu";
 exports.LOGO="https://foodtiger.site/default/logo.png";
 exports.LOGOWidth=487;
 exports.LOGOHeight=144;
