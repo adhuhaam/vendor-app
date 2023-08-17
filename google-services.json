@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278359199665",
+    "project_id": "mithaa-menu",
+    "storage_bucket": "mithaa-menu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278359199665:android:c7efe91e4c85dec0443790",
+        "android_client_info": {
+          "package_name": "com.mitha.menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278359199665-a8430eefcqpu59ctkmc6hn90l85ae0sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_n3yoKikPxYGEY-HJyBrpMkA9tcNGgg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278359199665-a8430eefcqpu59ctkmc6hn90l85ae0sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

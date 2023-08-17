@@ -21,17 +21,17 @@
         "NSLocationAlwaysUsageDescription": "This app uses the location to track the order current position",
         "NSLocationWhenInUseUsageDescription": "This app uses the location to track the order position"
       },
-      "bundleIdentifier": "com.dimovdaniel.mobidonia",
+      "bundleIdentifier": "com.mitha.menu",
       "supportsTablet": false,
       "buildNumber": "1.1"
     },
     "android": {
-      "package": "com.dimovdaniel.mobidonia"
+      "package": "com.mitha.menu"
     },
     "description": "",
     "extra": {
       "eas": {
-        "projectId": "0f982a2a-a8fc-46a4-a207-7c35969104d7"
+        "projectId": "mithaa-menu"
       }
     }
   }
