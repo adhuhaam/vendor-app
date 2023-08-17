@@ -16,7 +16,7 @@ exports.dateTimeFormat="MMMM Do YYYY, h:mm a";
 exports.dateFormat="MMMM Do YYYY";
 
 //Registering
-exports.disableRegister=false; //Set to true if you want to remove the option to register from mobile app
+exports.disableRegister=true; //Set to true if you want to remove the option to register from mobile app
 exports.APP_SECRET="app_secret";
 
 
