@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mobidonia",
-    "slug": "mobidonia",
+    "name": "MithaMenu",
+    "slug": "mithamenu",
     "version": "3.6.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
