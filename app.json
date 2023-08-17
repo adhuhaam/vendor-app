@@ -21,12 +21,12 @@
         "NSLocationAlwaysUsageDescription": "This app uses the location to track the order current position",
         "NSLocationWhenInUseUsageDescription": "This app uses the location to track the order position"
       },
-      "bundleIdentifier": "com.mitha.menu",
+      "bundleIdentifier": "com.mithaa.menu",
       "supportsTablet": false,
       "buildNumber": "1.1"
     },
     "android": {
-      "package": "com.mitha.menu"
+      "package": "com.mithaa.menu"
     },
     "description": "",
     "extra": {

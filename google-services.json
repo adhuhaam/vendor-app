@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:278359199665:android:c7efe91e4c85dec0443790",
+        "mobilesdk_app_id": "1:278359199665:android:3068bf082076f9d5443790",
         "android_client_info": {
-          "package_name": "com.mitha.menu"
+          "package_name": "com.mithaa.menu"
         }
       },
       "oauth_client": [
